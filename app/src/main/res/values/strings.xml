@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Aplicativo</string>
+    <string name="login">Login</string>
+    <string name="nao_tem_conta">Nao tem Conta?Cadastrar</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="nome">Nome</string>
+    <string name="senha">Senha</string>
+    <string name="email">Email</string>
+    <string name="nomelogo">nomelogo</string>
+    <string name="descricao">descricao</string>
+    <string name="vai_pra_tela">vai_pra_tela</string>
+    <string name="post_title">POST TITLE</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_news_web_view">NewsWeviwel</string>
+    <string name="jk_system">JK System</string>
+
+
+</resources>

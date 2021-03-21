@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "611155553325",
+    "firebase_url": "https://aplicativo-35650.firebaseio.com",
+    "project_id": "aplicativo-35650",
+    "storage_bucket": "aplicativo-35650.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611155553325:android:78a91cb5670392b9c9dca4",
+        "android_client_info": {
+          "package_name": "com.ltf.aplicativo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611155553325-elrl9pm8j171bbcffnglvf2npc9j8u1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ltf.aplicativo",
+            "certificate_hash": "a3950693e67fe8cdffa816ccbcebcd21126340e8"
+          }
+        },
+        {
+          "client_id": "611155553325-iv8h5mpjhig8pui6d1kbarm238esl1ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJBENU_9NHyDmdyqdhgC8JY8NZZc0UJiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611155553325-iv8h5mpjhig8pui6d1kbarm238esl1ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
